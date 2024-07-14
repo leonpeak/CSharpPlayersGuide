@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Cylinders_a_Complete_Program/1.0.0": {
+        "runtime": {
+          "Cylinders_a_Complete_Program.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Cylinders_a_Complete_Program/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

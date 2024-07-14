@@ -1,0 +1,14 @@
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/bin/Debug/net8.0/Cylinders_a_Complete_Program
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/bin/Debug/net8.0/Cylinders_a_Complete_Program.deps.json
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/bin/Debug/net8.0/Cylinders_a_Complete_Program.runtimeconfig.json
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/bin/Debug/net8.0/Cylinders_a_Complete_Program.dll
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/bin/Debug/net8.0/Cylinders_a_Complete_Program.pdb
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.AssemblyInfoInputs.cache
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.AssemblyInfo.cs
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.csproj.CoreCompileInputs.cache
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.dll
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/refint/Cylinders_a_Complete_Program.dll
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.pdb
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.genruntimeconfig.cache
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/ref/Cylinders_a_Complete_Program.dll
