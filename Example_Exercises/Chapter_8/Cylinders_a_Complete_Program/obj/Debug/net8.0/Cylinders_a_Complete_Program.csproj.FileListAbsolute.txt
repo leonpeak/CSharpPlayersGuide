@@ -12,3 +12,4 @@
 /Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.pdb
 /Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.genruntimeconfig.cache
 /Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/ref/Cylinders_a_Complete_Program.dll
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_8/Cylinders_a_Complete_Program/obj/Debug/net8.0/Cylinders_a_Complete_Program.sourcelink.json
