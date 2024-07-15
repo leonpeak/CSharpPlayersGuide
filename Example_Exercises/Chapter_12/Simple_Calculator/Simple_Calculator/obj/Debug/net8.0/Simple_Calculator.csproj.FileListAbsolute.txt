@@ -1,0 +1,15 @@
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.deps.json
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.runtimeconfig.json
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.dll
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/bin/Debug/net8.0/Simple_Calculator.pdb
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.AssemblyInfoInputs.cache
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.AssemblyInfo.cs
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.csproj.CoreCompileInputs.cache
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.sourcelink.json
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.dll
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/refint/Simple_Calculator.dll
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.pdb
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/Simple_Calculator.genruntimeconfig.cache
+/Users/leonpeak/Desktop/Programming/CSharpPlayersGuide/Example_Exercises/Chapter_12/Simple_Calculator/Simple_Calculator/obj/Debug/net8.0/ref/Simple_Calculator.dll
